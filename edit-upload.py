@@ -222,8 +222,6 @@ def main():
 		#exporta audio
 		transmissoes[i].export_audio()
 		
-		sleep(60)
-		
 	
 	# upa pro dropbox
 	for i in range (0, num_aulas):
